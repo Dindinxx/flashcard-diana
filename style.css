@@ -74,7 +74,9 @@ body {
     width: 100%;
     box-sizing: border-box;
 }
-
+.cartao:hover .cartao__conteudo {
+    transform: rotateY(180deg);
+}
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
     background-color: rgba(0, 244, 191, 0.2);
