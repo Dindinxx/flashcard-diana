@@ -13,8 +13,8 @@ criaCartao(
 
 criaCartao(
     'matemática',
-    'Quabtos q é 20x8?',
-    '160s'
+    'Quantos q é 20x8?',
+    '160'
 )
 
 criaCartao(
